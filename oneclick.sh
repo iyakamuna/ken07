@@ -3,9 +3,9 @@
 ln -fs /usr/share/zoneinfo/Asia/Manila /etc/localtime
 MYIP=$(wget -qO- ipv4.icanhazip.com)
 dbhost='185.61.137.168';
-dbuser='sibugaym_GTuser2020';
-dbpass='2020vpnGTNET2020';
-dbname='sibugaym_GTBASE2020';
+dbuser='sibugaym_manoknaitim';
+dbpass='mhiedhie100710';
+dbname='sibugaym_manoknaitim';
 cacert='-----BEGIN CERTIFICATE-----
 MIIE5TCCA82gAwIBAgIJAP0GLynOqm38MA0GCSqGSIb3DQEBCwUAMIGnMQswCQYD
 VQQGEwJQSDERMA8GA1UECBMIQmF0YW5nYXMxETAPBgNVBAcTCEJhdGFuZ2FzMRIw
